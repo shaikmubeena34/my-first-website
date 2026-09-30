@@ -1,0 +1,7 @@
+{
+  "name": "Meridian Trust Bank",
+  "description": "Modern, trustworthy, premium banking website and digital banking demo with personal accounts, business solutions, loans, investments, cards, and interactive financial tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
